@@ -29,10 +29,14 @@ export const ListItem: React.FC<DragonProps> = ({
 
 export const DragonListItem = styled(ListItem)`
   padding: 24px;
+  margin: 0 4px;
 
   > img {
     max-width: 200px;
     height: 300px;
     object-fit: cover;
+
+    border: 4px solid #5d3fd3;
+    border-radius: 4%;
   }
 `;
