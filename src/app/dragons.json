@@ -1,0 +1,22 @@
+{
+    "dragons": [
+        {
+            "name":  "Kypari",
+            "dragon": true,
+            "imgCard": "https://orca2.furtrack.com/gallery/6447/518737-03099b66067bc7d21ea1e8fbec9d67b1.jpg",
+            "adorableRating": 10
+        },
+        {
+            "name":  "Moss",
+            "dragon": true,
+            "imgCard": "https://orca2.furtrack.com/gallery/949/76157-9ba36f7300f4c1753955ab497458cd73.jpg",
+            "adorableRating": 10
+        },
+        {
+            "name": "Flint",
+            "dragon":  false,
+            "imgCard": "https://orca2.furtrack.com/gallery/6447/518651-e789ba7f91ef64054d4595ea71156812.jpg",
+            "adorableRating": 8
+        }
+    ]
+}
